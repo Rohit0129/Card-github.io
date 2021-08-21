@@ -18,8 +18,7 @@ The challenge for me was to position the card due to some technical faults.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://rohit0129.github.io/Card-github.io/)
 
 ## My process
 
@@ -38,6 +37,6 @@ I took some help from youtube as well as from codepen for positioning card.
 
 ## Author
 
-- POrtfolio - [Rohit More](https://rohitmore.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-  -Card - [Responsive card](https://)
+- Portfolio - [Rohit More](https://rohitmore.netlify.app)
+- Frontend Mentor - [@rohitmore](https://www.frontendmentor.io/profile/Rohit0129)
+  -Card - [Responsive card](https://rohit0129.github.io/Card-github.io/)
